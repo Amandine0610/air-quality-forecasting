@@ -39,3 +39,7 @@ The dataset consists of hourly air quality and meteorological data from Beijing 
   seaborn
   tensorflow>=2.4
   scikit-learn
+ **Install in collab**
+```bash  
+!pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
+
